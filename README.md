@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TayDex
-- 🌱 I’m currently improving my Javascript/Node knowledge.
+- I make what I hope to be somewhat useful Disord Bots.
 
 
 <!---
